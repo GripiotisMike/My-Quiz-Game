@@ -1,4 +1,4 @@
-# MyQuizGame
+# My Quiz Game
 
 - In this Project I learned how to create Classes and add Methods to them.
 
